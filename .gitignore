@@ -8,7 +8,7 @@ build/
 ###YML
 
 *.yml
-
+git rm -r --cached .
 ### STS ###
 .apt_generated
 .classpath
